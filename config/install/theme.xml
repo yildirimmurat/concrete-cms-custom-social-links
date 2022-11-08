@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+  <themes>
+    <theme handle="theme_custom_social_links" package="custom_social_links" activated="1"/>
+  </themes>
+</concrete5-cif>
